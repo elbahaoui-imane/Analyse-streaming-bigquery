@@ -15,3 +15,11 @@ L'analyse des volumes de visionnage demontre que le genre Action est le principa
 2. Forte retention : Les sessions sur le genre Action affichent la duree moyenne la plus elevee avec 108 minutes par visionnage, prouvant un fort attachement des utilisateurs.
 3. Recommandation strategique : Prioriser le financement de contenus orientes Action et reduire les investissements sur le genre Documentaire qui affiche un fort taux d'abandon precoce (45 minutes en moyenne).
 
+## Rendu Visuel du Projet
+
+### Creation de la table sur Google BigQuery
+![Creation de la table](Table%20visionnage%20cr%C3%A9er.png)
+
+### Resultats de la requete SQL d'analyse
+![Resultats de la requete](Analyse%20visionnage.png)
+
