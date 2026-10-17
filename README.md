@@ -18,8 +18,8 @@ L'analyse des volumes de visionnage demontre que le genre Action est le principa
 ## Rendu Visuel du Projet
 
 ### Creation de la table sur Google BigQuery
-![Creation de la table](Table%20visionnage%20cr%C3%A9er.png)
+![Resultats de la requete](Analyse%20visionnage.png)
 
 ### Resultats de la requete SQL d'analyse
-![Resultats de la requete](Analyse%20visionnage.png)
+![Creation de la table](Table%20visionnage%20cr%C3%A9er.png)
 
